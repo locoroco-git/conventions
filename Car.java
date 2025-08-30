@@ -1,3 +1,4 @@
+//This is a placeholder for authors to document conventions
 // The "Car" class is the high-level module.
 // It is loosely coupled because it depends on the "Engine" interface,
 // not on a specific engine type like V8Engine or ElectricEngine.
