@@ -1,6 +1,6 @@
 // The "V8Engine" class is a concrete implementation of the Engine interface.
 // It represents one of the specific "strategies" or behaviors.
-class V8Engine implements Engine {
+public class V8Engine implements Engine {
     public V8Engine() {
         System.out.println("V8 Engine created.");
     }
